@@ -11,7 +11,11 @@ git clone https://github.com/firmao/llmsimple.git
 ```
 cd llmsimple
 ```
-(3) execute the python script:
+(3) Install the required python libraries:
+```
+pip install -r requirements.txt
+```
+(4) execute the python script:
 ```
 python simple.py
 ```

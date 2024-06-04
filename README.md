@@ -1,5 +1,6 @@
 # llmsimple
 A simple implementation of LLM and prompt engineering.
+![algorithm](https://github.com/firmao/llmsimple/assets/9248325/7b7e7849-341b-4e8a-8d66-1bada2aa78b9)
 
 3 steps to run our python script with our proof of concept:
 

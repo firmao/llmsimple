@@ -20,3 +20,5 @@ pip install -r requirements.txt
 ```
 python simple.py
 ```
+
+This work is free and was inspired by [Zia LLM](https://github.com/ghezalahmad/LLM-SWT-Hackaton), I want to cite/refer to his work here.

@@ -1,0 +1,60 @@
+STUDY ON THE MECHANICAL PROPERTIES OF THE FLY ASH GEOPOLYMER CONCRETE 
+ABSTRACT 
+This paper presents the results of the research on the mechanical characteristics of fly ash geopolymer concrete  (GPC) . Three mixture of geopolymer concrete graded 30, 40 and 50 MPa were prepared. The process of experimental studies that is used to determine th e compressive strength, modulus of elasticity, flexural strength is performed in acco rdance with ASTM standards. The results are analysed and evaluated according to statistical methods. The value of modulus of elasticity and characteristic bending tensile strength of geopolymer concrete will be compared with the value of the equivalent cement concrete that are calculated according to the prevailing theory. The evaluation of the mechanical properties of the fly ash geopolymer concrete is needed for the resea rch and application of this material in the construction.
+
+Keywords: Geopolymer, fly ash , strength .
+
+1. INTRODUCTION 
+Geopolymer is an inorganic polymer bonding, developed firstly by French scientist, Joseph Davidovits, in the 1970s. Geopolymerization is a chemical reaction between aluminum oxide and silicon oxide. Highly alkaline solution  will create solid three -dimensional structures of Si-O-Al [15]. The process of geopolymerization can be shown in Figure 1 [11]. The geopolymerization reaction takes place in atmospheric pressure and below 100°C [10]. The final product will be characterized by many factors related to the chemical composition of activated materials and alkaline solutions.
+
+Materials rich of  aluminum  and silica in geopolymerisation are industrial wastes such as fly ash, steel slag, blast furnace slag ... In specific, fly ash is the most suitable material for both its size and chemical composition.
+Fly ash geopolymer concrete has been studied and used for civil, including road and airport construction works in Australia for the past 10 years but in other countries, this material usage in construction is limited.
+To apply  fly ash geopolymer concrete in structure, the evaluation of its mechanical properti es is necessary. The mechanical properties are tested and assessed include compressive strength, elastic modulus, tensile bending strength. Results of researches  will be the basis for this material development in the field of construction in the coming time.
+
+2. MATERIALS & EXPERIMENTAL PROCEDURES
+2.1. Materials
+2.1.1.  Coarse Aggregate 
+Coarse aggregate concrete used for the experiment is quarry rubble of diameter D max = 25mm. It is sieved into size group by particle size sieves and mixed to satisfy particle sizes in compliance with ASTM C136 -01 [7] as seen in Figure 2 and  Figure 3 below.
+
+2.1.2. Fine  Aggregate Fine aggregate used for experiments is river sand. The particle size larger th an 5 mm is removed by sieving in the lab. Sand has particle modules M k = 2.55 which meets the requirements of ASTM C136 -01 [4]. Figure 4 below is described the grading of sand.
+
+2.1.3. Fly Ash (FA) 
+Fly ash in the experiment is supplied by the factory Vina F & C fly ash origin from Thermal Power Plant, Pha Lai. Test results of chem ical composition of fly ash provided by the Institute of Building Materials are presented in Table 1 below. This is similar to fly ash type F in  ASTM C618 -03 [9].
+
+
+2.1.4.  Alkaline Activator Solution ( AAS ) 
+Activated alkaline solution is a mixture of Sodium solution (NaOH) and Sodium Silicate or glass liquid (Na 2SiO 3). Sodium solution is prepared from dry flake NaOH (98% purity) mixing with water to achieve the required molar concentration. Glass liquid is supplied by Viet Tri chemical company with ratio of Na 2O/SiO 2/H2O was 11.8/28.5/59.7% by weight respectively. Mixing proportion (Na 2SiO 3/NaOH) was 2.5 [13].
+
+2.2. Component Proportion of Fly Ash Geopolymer 
+Component proportion of fly ash geopolymer used in testing is presented in Table 2 [1]: Table 2  
+
+2.3. Testing Plan 
+With 30 cylindrical samples of 15x30 cm were used to verify the compressive strength and elastic modulus, 18 prisms of 15x15x60 cm to find out flexural strength , corresponding to each GPC mixture. Determining  compressive strength by C39 -01 [5], tensile flexural st rength by ASTM C78 -02 [6], elastic modulus by ASTM C469 -02 [8]
+
+2.4. Testing Procedure 
+Fly ash geopolymer concrete can be created by applying conventional technology  like cement concrete. After casting for 2 days, the samples are removed and placed in a dry ing chamber at 60ºC/24 hours. Select temperature of 60°C to ensure the best performance in both the intensity and energy categories [16]. After thermal treatment, samples are stored in the laboratory for 28 days of age (Figure 5) and laboratory tests were performed to determine mechanical properties (Figure 6).
+
+3. RESULT AND DICUSSION
+3.1. Testing Result 
+After got  the test ing results of each test sample, statistical analysis and evaluation of the results wit h a 99% assurance probability a re conducted in accordance with ACI 214.R -02 [2].
+The res ults of experiments to find  the compressive strength, elastic modulus and  tensile flexure strength of the samples were presented in Table 3 as follows: [TABLE]
+
+3.2. Elastic Modulus 
+From the elastic modulus result test, the authors develop a relationship chart  between the elastic modulus and the specific  compressive strength. The  results of GPC are compared with the modulus of elasticity of the OPC by ACI 363 -11 [4], AASHTO 2012 [14], and by Hardjito et al. experiment formula for fly ash geopolymer concrete [12].
+
+• The proposed formula of the American Concrete Institute,  ACI 363 -11 [4]: [FORMULA]
+• The formula from AASHTO 2012 [14]: [FORMULA] 
+• Hardjito et al’s experiment formula for fly ash geopolymer concrete  [12]: [FORMULA]
+
+The results in Figure 7 describe  that the elastic modulus of fly ash g eopolymer concrete is less valuable than the modulus of elast icity of OPC at the same level from calcu lated by ACI363-11 between 2 -14% and much lower than the AASHTO 2012 calculation of 10 -30%. The main cause is that GPC uses a fly ash geopolymer mix as a completely different cement concrete. As the intensity of th e GPC increases,  the difference  is more . However, the value of elastic modulus  of GPC  was higher than elastic modulus of GPC create in Australia by Hardjito's [12]. This may be due to the composition of the substances in the fly ash binder, from the elas tic modulus of the original stone and  different aggregates. This result shows that GPC has lower elastic modulus than OPC, which leads to the possibi lity of deformati on when subjected to the load, in turn  GPC greater than that of OPC with the same compressive strength.
+
+3.3. Tensile Flexure Strength 
+The testing  results to determine the tensile flexure stren gth of GPC a re compared with the flexure streng th of concrete on  the same gra de as specified in the American Concrete Institute ACI 318 -11 [3].
+Formula for determining the tensile flexure strength of OPC concrete in accordance with ACI318 -11 [3]: [FORMULA] 
+The results in Figure 8 show that the tensile  strength of GPC is much greater than the calculated for cement concrete on  the same compressive strength. This value is greater than the range from 1.07 to 1.27 times. This shows that the advantage of GPC more than OPC.
+The high tensile fl exure strength reduces the cracks in the concrete, reducing the rebar of th e tensile zone of the tensile flexural  structure.
+
+4. CONCLUSION 
+From the testing results in this study, the conclusions and recommendations can be drawn: • Fly ash geopolymer concrete is molded and maintain ed in laboratory conditions has  low dispersion in the test results • With the same strengths of 30 -50 MPa, compared with OPC, GPC's elastic modulus is lower than OPC  is that calculated for cementitious stan dards, due to differences of binder in the cement concrete.
+• The tensile flexue  strength of GPC is higher than 7-27% that calculated by ACI 318 -11.
+• Mechanical characteristics of GPC are important in orienting GPC research in the construction sector.

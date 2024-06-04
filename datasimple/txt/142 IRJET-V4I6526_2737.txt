@@ -1,0 +1,83 @@
+Mechanical Properties and Flexural Performance of Geopolymer Concrete 
+
+Abstract
+The Ordinary Portland Cement (OPC), which is widely used material not only consumes significant amount of natural resources an d energy but also pollutes the atmosphere by the emission of CO2, So reduce this ill effect, the search for alternative result is geopolymer concrete. In this work, low calcium class F fly ash is used as the base material. This paper presents the results o f an experimental investigation to determine the performance characteristics of geopolymer reinforced concrete. Two kinds of systems are considered in this study using 100% replacement of cement by ASTM class Fly ash. The beams were made with Geopolymer co ncrete having compressive strength in the range of M20 - M35 by heat curing. The ratio between sodium hydroxide to sodium silicate solution is 1:2.5. The specimen was cured at 60˚C for 24 hrs. The compressive strength test was performed after the curing pe riod and strain was also measured using LVDT. An empirical formula is derived for fly ash based Geopolymer concrete using the results from experimental work.
+
+KeyWords :  Geopolymer concrete, Class F Fly ash, Compressive strength, Flexural strength, Elastic Modulus.
+
+1. INTRODUCTION 
+After wood, concrete is the most often used material by the community. Concrete is conventionally produced by using the Ordinary Portland cement (OPC) as the primary binder. The environmental issues associated with the productio n of OPC are well known. The amount of the carbon dioxide released  during the manufacture of OPC due to the calcination of limestone and combustion of fossil fuel is in the order of one ton for every ton of OPC produced. In addition, the amount of energy r equired to produce OPC is only next to steel and aluminium.
+On the other side, the abundance and availability of fly ash worldwide create opportunity to utilise this by - product of burning coal, as partial replacement or as performance enhancer for OPC. Fl y ash is itself does not possess the binding properties, except for the high calcium or ASTM Class C fly ash. However, in the presence of water and in ambient temperature, fly ash reacts with the calcium hydroxide during the hydration process of OPC to for m the calcium silicate hydrate (C -S-H) gel. This pozzolanic action happens when fly ash is added to OPC as a partial replacement or as an admixture  The binder produced in this case is due to polymerisation.
+
+Davidovits (1999) in 1978 named the later as Geopolymers, and stated that these binders can be produced by a polymeric synthesis of the alkali activated material from geological origin or by -product materials such as fly ash and rice husk ash. However, not a great deal was known regarding using the geopo lymer technology to make fly ash - based geopolymer concrete.
+The research reported in this thesis was dedicated to investigate the process of making fly ash -based geopolymer concrete and the short -term engineering properties of the fresh and hardened concre te.
+
+2. MATERIALS  AND MIX PROPORTIONS
+The materials used to making geopolymer concrete were Fly Ash, Sand, Coarse aggregate, and alkaline solution such as sodium hydroxide solution and sodium silicate solution as binders and water as workability measure.
+
+2.1 Fly Ash 
+Fly Ash obtained from Mettur power plant was used as 100%  replacement of cement.
+
+2.2 Fine aggregate Natural river sand with fineness modulus of 2.64. Its gradation meets zone II of IS 383 (1970) requirements. Specific gravity of sand is 2.65.
+
+2.3 Coarse Aggregate Crushed blue granite stones were passed through 20mm sieve and meets graduation requirements of IS 2386(1963). The apparent specific gravity is 2.83 and f ineness modulus is 6.40.
+
+2.4 Sodium hydroxide (NaOH) 
+Since geopolymer concrete used in this study is homogeneous material and its main process to activate the sodium silicate Pellet Sodium Hydroxide is recommended  to use the lowest cost i.e. up to 94% to 96 % purity.
+
+2.5 Sodium silicate 
+In present investigation sodium silicate 2.0 (ratio between Na2O to Sio2) is used. A per the manufacture, silicate were supplied to the detergent company and textile industry as bonding agent. Same sodium silicate is used for the making of geopolymer concrete. The chemical properties and the physical of the sodium silicates were given below.
+
+2.6 Mix Proportions 
+The mix design in the case of g eopolymer concrete is based on convenient concrete with some modification. In the case of conventional concrete, the materials proportion can be found out of required strength using the code.
+
+2.7 Preparation of alkaline liquid 
+Sodium Hydroxide Solution Sodium Hydroxide pellets are taken and dissolved in water at the rate of 16 molar concentrations. It is strongly recommended that the sodium hydroxide, solution must be prepared 24 hours prior to u se and also if it exceeds 36 hours it terminate to semi solid liquid state. Hence the prepared solution should be used within the time period.
+
+2.8 Molarity Calculation 
+The solids must be dissolved in water to make a solution with the required concentratio n. The concentration of sodium hydroxide solution can vary in different molar. The mass of NaOH solids in a solution varies depending on the concentration of the solution For instance, NaOH solution with a concentration of 16 molar consists of 16 x 40 = 640 grams of NaOH solids per litre of water, were 40 is the molecular weight of NaOH. Note that the mass of water is the major component on both the  alkaline solutions. The mass of NaOH solids was measured as 444 grams per Kg of NaOH solution with Concentrati on of 16 molar.
+
+2.9 Alkaline Liquid 
+Generally alkaline liquids are prepared by mixing of the sodium hydroxide solution and sodium silicate solution at the room temperature. When the solution mixed together the both solution start to react that is polymeri zation take place. It liberate large amount of heat so it is recommended to leave it for about 20 minutes thus the alkaline liquid is ready as binding agent.
+
+2.10 Casting and Curing 
+It was found that the fresh fly ash based geopolymer concrete was dark in  colour (due to the dark colour of the fly ash). The amount of water in the mixture played an important role on the behavior of fresh concrete when the mixing time was long.
+The sodium hydroxide available in pellets form it is dissolved in water. Morality  to be used in the concrete is 16 molar in which 444 grams of NaOH solids dissolved in 556 grams of water. Mix sodium hydroxide solution and sodium silicate solution together at least one day prior to adding to the dry materials. Mix all dry materials in t he pan mixer for amount three minutes. Add the liquid compound of the mixture at the end of dry mixing and continue the wet mixing for another 2 minutes.
+
+The Geopolymer specimen were cast and placed inside a jute canvas or tarpaulin. The entire specimen wa s kept inside the heat curing chamber at 60oC and a temperature indicator was also placed outside the set up. The canvas should be so tight such that the heat can’t come out of the heat curing set up. The beams were cured for 24 hours.
+
+Geopolymer spec imens shoul d be cured at elev ated tempera ture in a dry enviro nment to prev ent excessive  evaporation Geopolymer concrete did not harden  immediately at room temperature. When the room temperature was less than 30oC the hardening did not occur at least for 24 hour s. Also the handling time is a more appropriate parameter (rather than setting time used in the case of OPC Concrete) for fly  ash based geopolymer concrete.
+
+3. Test Results and Discussions 
+3.1 Compressive strength 
+The compressive strength of GPC after 24  hours heats curing at 60ºC. The average compressive strength values observed after 24 hours are given in table 5.
+
+3.2 Flexural Strength 
+Tests were carried out conforming to IS 516 (1959) to obtain the flexural strength of various concrete mixtures. Eigh tbeams of beam 100mmx100mmx500mm were cast and the beams are shown in fig.2 The beams were tested by two points loading method in UTM. The experimental results of flexural strength are shown in table 5 
+
+3.3 Modulus of Elasticity 
+Young’s modulus E fo r the geopolymer concrete investigated was determined at 24 hours. Tests were carried out in accordance with the Indian Standard. For each Mixture, four 100x300 mm concrete cylinders were made. Four of These cylinders were used to determine the elastic mod ulus and Poisson’s ratio. Four other cylinders were tested to determine the average compressive  strength. All the specimens were capped in accordance with the Indian Standard. The range of poisons ratio falls between 0.19 and 0.22. For Portland cement conc rete, the Poisson’s ratio is usually between 0.11 and 0.21, with the most common value taken as 0.15 (Warner et al. 1998) or 0.15 for high strength concrete and 0.22 for low strength concrete (Neville 2000). These ranges are similar to those measured for t he geopolymer concrete. Table 6 shows the modulus of elasticity of concrete. 
+
+
+3.4 Flexural behaviour of RCC beam 
+Beams of size 100mmx200mmx1800mm were tested under two point loading. The First crack load, Ultimate load and deflection at ultimate loads are tabulated in table no. 7. The reinforcement details and test set up of the beams are shown in figures 3 and 4. Figs 5 to 9 show the load versus deflection curve of the beams at mid span at all stages of loading up to failure. Fig 10 shows the crack patterns of the beams tested in the present work. All the cracks appeared between the point loads, showing that they w ere flexural ones.
+
+3.5 Deformations at first crack 
+The deformation at this stage o f loading is only a fraction of those occurring at the design service loads. The visible first crack loads of the beams varied from 30 -35% of the experimental failure loads. The flexure rigidity EI at the point of maximum moment was calculated by dividing the bending moment by the curvature obtained from the concrete strain reading in the compression zone.
+
+3.6 Deformation at failure 
+All the beams failed by yielding of tension steel. After yielding the beams exhibited significant in elastic deformations before the ultimate load was reached.
+
+4. CONCLUSIONS
+1. For all the mixes considered in this investigation, there was increase in load carrying capacity of beam for increase in grades.
+2. The measured values of the modulus elasticity of fly ash - based ge opolymer concrete with compressive strength in the range of 20 to 35 MPa were similar to those of OPC concrete.
+The measured values are at the lower end of the values calculated using the current design Standards due to the type of coarse aggregate used in  the manufacture of the geopolymer concrete.
+3. The Poisson’s ratio of fly ash -based geopolymer concrete with compressive strength in the range of 20 to 35 MPa falls between 0.19 and 0.22 . These values are similar to those of OPC concrete.
+4. The stress -strain relations of fly ash -based geopolymer concrete in compression fits well with the expression developed for OPC concrete as per IS 456 – 2000.
+5. The compressive strength of fly ash -based geopolymer concrete is high, as in the case of Portland cemen t concrete.
+The measured values are higher than those recommended by the relevant Indian Standard.
+
+5. RECOMMENDATIONS FOR FUTURE RESEARCH 
+To date, the reaction  mechanism of geopolymerisation  is still not clear. Fundamental research in this area would inc rease the potential of the material. For example a study is needed to identify the scientific reason for increase in strength after a longer resting period, and to investigate the role of water in geopolymerisation.
+Although the present work identified man y salient parameters that influence the properties of  fresh and harden fly-ash based geopolymer concrete, a large database should be built on the engineering properties of various mixtures using fly ash from different sources. Such a database may identify additional parameters, and lead to familiarise the utilisation of this material in many applications.
+Further research should identify possible applications of geopolymer technology. This would lead to research areas that are specifically oriented towards  applications. The geopolymer technology has the potential to go beyond making concrete, there could be possibilities in other areas of infrastructure needed by the community.

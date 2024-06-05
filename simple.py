@@ -83,7 +83,7 @@ def generate_ontology(selected_files: list, file_contents: dict, prompt_template
 # Main function
 def main(directory: str, input_output_token_limit: int, prompt_template: str, max_response_tokens: int = 3000):
     # Set OpenAI API key
-    openai.api_key = "sk-proj-8pZ6ulTJ3DOuPA1UjuuaT3BlbkFJiNI4xuJ4Nt1fifxULOPr" 
+    openai.api_key = "YOUR_OPENAI_API_KEY" 
     
     # Read .txt files and their token counts
     file_contents, file_token_counts = read_txt_files_with_token_counts(directory)

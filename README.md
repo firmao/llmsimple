@@ -22,3 +22,4 @@ python simple_no_OpenAI.py
 ```
 
 This is a work in progress and everything here is a prototype.
+It is a collabaration with Zia (https://github.com/ghezalahmad/) and Benjamin Moreno Torres.

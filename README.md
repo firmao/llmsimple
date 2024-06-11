@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 (4) execute the python script:
 ```
-python simple.py
+python simple_no_OpenAI.py
 ```
 
-This work is free and was inspired by [Zia LLM](https://github.com/ghezalahmad/LLM-SWT-Hackaton), I want to cite/refer to his work here.
+This is a work in progress and everything here is a prototype.
